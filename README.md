@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 ## :dart: Projects
 | Project name | Description    | Goals    |    Solo/Group       |    Status    | Grade |
 | :---:        |    :---:       |   :---:  |       :---:         |    :---:     | :---: |
-| LIBFT | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
+| [LIBFT](https://github.com/callmesword/1337-projects-resources/tree/main/LIBFT) | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
 | FT_PRINTF | Recode printf ! | Learn what is and how to implement variadic functions | Solo | :white_check_mark: | 100 |
 | GET-NEXT-LINE | you will always need a way to read content line by line | File descriptors, basic parsing, bufferisation | Solo | :white_check_mark: | 100 |
 
