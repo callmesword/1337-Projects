@@ -1,16 +1,16 @@
 ![libft](https://user-images.githubusercontent.com/61026156/151668351-4c5e30cc-debf-4ddd-8055-f13ada35ad95.gif)
-# Table of Content
+# :clipboard: Table of Content
 - [Project Description](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#table-of-content)
 - [Functions](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#functions)
   - [C standard library](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#c-standard-library-functions)
   - [Additional Functions](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#additional-functions)
-- Getting started
+- [Getting started](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#getting-started)
 
-## Project Description
+## :page_facing_up: Project Description
 This project is about coding a C library.
 It will contain a lot of general purpose functions your programs will rely upon.
 This project is about understanding the way libc functions work, implementing and learning to use them. You will create your own library. It will be helpful since you will use it in your next C school assignments.
-## Functions
+## :computer: Functions
 ###### C Standard Library Functions:
 ![Screen Shot 2022-01-29 at 17 30 15](https://user-images.githubusercontent.com/61026156/151668918-64ac3765-b46c-46ad-ae86-59344107a596.png)
 ###### Additional Functions:
@@ -35,7 +35,7 @@ This project is about understanding the way libc functions work, implementing an
 
 ![Screen Shot 2022-01-29 at 17 38 31](https://user-images.githubusercontent.com/61026156/151669225-7ff18da0-0c27-42fb-9cd9-81286440e687.png)
 
-## Getting started
+## :100: Getting started
 cd into the SRCS directory and use the command `make` to make the library.
 
 https://user-images.githubusercontent.com/61026156/151669427-0cf45a24-e2e8-423d-875b-4096f538b307.mov
