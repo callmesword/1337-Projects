@@ -40,10 +40,9 @@ cd into the SRCS directory and use the command `make` to make the library.
 
 https://user-images.githubusercontent.com/61026156/151669427-0cf45a24-e2e8-423d-875b-4096f538b307.mov
 
-Make sure you include the libft library in your main.c file in order to use it.
-`#include "libft.h"`
+Make sure you include the libft library in your main.c file `#include "libft.h"` in order to use the library.
 ![Screen Shot 2022-01-29 at 17 53 31](https://user-images.githubusercontent.com/61026156/151669708-d8495e87-317e-4192-adb9-b7d343465212.png)
 
 
-https://user-images.githubusercontent.com/61026156/151669673-3af8158e-9aaa-400d-b056-5cc04b02bf71.mov
+https://user-images.githubusercontent.com/61026156/151669673-3af8158e-9aaa-400d-b056-5cc04b02bf71.mp4
 
