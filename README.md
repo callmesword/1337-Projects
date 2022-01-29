@@ -1,7 +1,7 @@
 ![1337gif](https://user-images.githubusercontent.com/61026156/151660954-74604431-5e44-4013-a93e-091f60fcb296.gif)
 
 # Table of content
-- What is 1337?
+- [What is 1337?](https://github.com/callmesword/Computer-Science-Projects/blob/main/README.md#what-is-1337)
 - Pedagogy
 - Curriculam
 ## What is 1337?
