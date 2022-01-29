@@ -23,3 +23,4 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 | Project name | Description    | Goals | Solo/Group       | Status    | Grade|
 | :---         |    :---:       | ---:  |       ---:       |    ---:   | ---: |
 | LIBFT | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
+| FT_PRINTF | Recode printf ! | Learn what is and how to implement variadic functions | Solo | :white_check_mark: | 100 |
