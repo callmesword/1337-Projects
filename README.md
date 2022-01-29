@@ -20,8 +20,8 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 >The Holy Graph is a map which represents the projects students will go through once they get accepted. as a student, you will start from the inner circle and work your way out to the others unlocking many other projects.
 
 ## :dart: Projects
-| Project name | Description    | Goals | Solo/Group       | Status    | Grade|
-| :---         |    :---:       | ---:  |       ---:       |    ---:   | ---: |
+| Project name | Description    |Goals | Solo/Group       | Status    | Grade|
+| :---         |    :---:       |    ---:  |       ---:       |    ---:   | ---: |
 | LIBFT | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
 | FT_PRINTF | Recode printf ! | Learn what is and how to implement variadic functions | Solo | :white_check_mark: | 100 |
 | GET-NEXT-LINE | you will always need a way to read content line by line | File descriptors, basic parsing, bufferisation | Solo | :white_check_mark: | 100 |
