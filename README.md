@@ -20,6 +20,6 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 >The Holy Graph is a map which represents the projects students will go through once they get accepted. as a student, you will start from the inner circle and work your way out to the others unlocking many other projects.
 
 ## :dart: Projects
-| Project name | Description | Goals | Solo/Group | Status | Grade
+| Project name | Description |Goals | Solo/Group | Status | Grade
 | :--- | :---: | ---: | ---: | ---: | ---: |
 | LIBFT | Recode a few functions of the C standard library | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
