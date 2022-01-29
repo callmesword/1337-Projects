@@ -3,7 +3,7 @@
 - [Project Description](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#table-of-content)
 - [Functions](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#functions)
   - [C standard library](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#c-standard-library-functions)
-  - Additional Functions
+  - [Additional Functions](https://github.com/callmesword/1337-Projects/blob/main/LIBFT/README.md#additional-functions)
 - Getting started
 
 ## Project Description
