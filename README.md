@@ -15,7 +15,7 @@ The Treize, Trente-Sept educational approach is based on peer-learning. A partic
 <br clear="left"/>
 
 ## :cyclone: Holy Graph 
-<img src="https://user-images.githubusercontent.com/61026156/151665120-6ce0d366-9c2a-49cf-b893-a092ba5e50ad.png" align="left" width="400px"/>
+<img src="https://user-images.githubusercontent.com/61026156/151665268-78358c7b-eb5a-4fe7-a1b7-6363ce0e1ed7.mov" align="left" width="400px"/>
 some text floating around the image
 
 <br clear="left"/>
