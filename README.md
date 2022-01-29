@@ -15,3 +15,4 @@ The Treize, Trente-Sept educational approach is based on peer-learning. A partic
 <br clear="left"/>
 
 ## Holy Graph
+<span class="icon-globe project-status-icon"></span>
