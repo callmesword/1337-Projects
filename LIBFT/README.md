@@ -35,3 +35,5 @@ This project is about understanding the way libc functions work, implementing an
 
 ![Screen Shot 2022-01-29 at 17 38 31](https://user-images.githubusercontent.com/61026156/151669225-7ff18da0-0c27-42fb-9cd9-81286440e687.png)
 
+## Getting started
+`print("hello")`
