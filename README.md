@@ -15,7 +15,6 @@ The Treize, Trente-Sept educational approach is based on peer-learning. A partic
 <br clear="left"/>
 
 ## :cyclone: Holy Graph 
-<img src="https://user-images.githubusercontent.com/61026156/151665268-78358c7b-eb5a-4fe7-a1b7-6363ce0e1ed7.mov" align="left" width="400px"/>
-some text floating around the image
+https://user-images.githubusercontent.com/61026156/151665268-78358c7b-eb5a-4fe7-a1b7-6363ce0e1ed7.mov
+The Holy Graph is a map which represents the projects students will go through once they get accepted. as a student, you will start from the inner circle and work your way out to the others unlocking many other projects.
 
-<br clear="left"/>
