@@ -3,7 +3,7 @@
 # :book: Table of content
 - [What is 1337?](https://github.com/callmesword/Computer-Science-Projects/blob/main/README.md#what-is-1337)
 - [Holy Graph](https://github.com/callmesword/Computer-Science-Projects/blob/main/README.md#cyclone-holy-graph)
-- Projects
+- [Projects](https://github.com/callmesword/Computer-Science-Projects/blob/main/README.md#dart-projects)
 ## What is 1337?
 
 <img src="https://user-images.githubusercontent.com/61026156/151661210-4431e8c3-3e94-4de1-81d7-d2ae608ef57f.png" align="left" width="400px"/>
