@@ -47,14 +47,3 @@ char	*ft_strjoin(char const *s1, char const *s2)
 	free(alloc);
 	return (alloc);
 }
-int main()
-{
-char s[] = "hello";
-char s2[] = "world";
-printf("%s", ft_strjoin(s, s2));
-//system("leaks a.out");
-
-
-
-
-}
