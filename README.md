@@ -8,5 +8,3 @@
 The Treize, Trente-Sept educational approach is based on peer-learning. A participatory operating style allowing students to unleash their creativity through project-based learning. To train the future coders of tomorrow, we had to rethink learning. We had to make IT something fun, exciting and at odds with the restrictive vision that the general public may have about it.
 
 <br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
