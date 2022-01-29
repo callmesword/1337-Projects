@@ -22,8 +22,8 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 ## :dart: Projects
 | Project name | Description    | Goals    |    Solo/Group       |    Status    | Grade |
 | :---:        |    :---:       |   :---:  |       :---:         |    :---:     | :---: |
-| [LIBFT](https://github.com/callmesword/1337-projects-resources/tree/main/LIBFT) | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
-| [FT_PRINTF](https://github.com/callmesword/1337-projects-resources/tree/main/FT_PRINTF) | Recode printf ! | Learn what is and how to implement variadic functions | Solo | :white_check_mark: | 100 |
-| [GET-NEXT-LINE](https://github.com/callmesword/1337-projects-resources/tree/main/GET_NEXT_LINE) | you will always need a way to read content line by line | File descriptors, basic parsing, bufferisation | Solo | :white_check_mark: | 100 |
+| [LIBFT](https://github.com/callmesword/1337-Projects/tree/main/LIBFT) | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
+| [FT_PRINTF](https://github.com/callmesword/1337-Projects/tree/main/FT_PRINTF) | Recode printf ! | Learn what is and how to implement variadic functions | Solo | :white_check_mark: | 100 |
+| [GET-NEXT-LINE](https://github.com/callmesword/1337-Projects/tree/main/GET_NEXT_LINE) | you will always need a way to read content line by line | File descriptors, basic parsing, bufferisation | Solo | :white_check_mark: | 100 |
 
 > THERE WILL BE MORE PROJECTS ADDED TO THE TABLE ONCE THEY'RE VALIDATED !
