@@ -21,5 +21,5 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 
 ## :dart: Projects
 | Project name | Description | Goals | Solo/Group | Status | Grade|
-| :---         | :---:       | ---: | ---:       | ---:   | ---: |
-| [LIBFT](google.com) | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
+| :---         |    :---:       | ---:  |       ---:       |    ---:   | ---: |
+| LIBFT | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
