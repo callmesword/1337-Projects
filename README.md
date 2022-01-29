@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 ## :dart: Projects
 | Project name | Description |Goals | Solo/Group | Status | Grade|
 | :---         | :---:       | ---: | ---:       | ---:   | ---: |
-| LIBFT | Recode a few functions of the C standard library | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
+| LIBFT | Recode functions of the C STD | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
