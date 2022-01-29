@@ -4,7 +4,7 @@
 
 ![1337](https://user-images.githubusercontent.com/61026156/151661210-4431e8c3-3e94-4de1-81d7-d2ae608ef57f.png)
 
-<img src="https://user-images.githubusercontent.com/61026156/151661210-4431e8c3-3e94-4de1-81d7-d2ae608ef57f.png" align="left" width="200px"/>
+<img src="https://user-images.githubusercontent.com/61026156/151661210-4431e8c3-3e94-4de1-81d7-d2ae608ef57f.png" align="left" width="500px"/>
 some text floating around the image
 
 <br clear="left"/>
