@@ -21,5 +21,5 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 
 ## :dart: Projects
 | Project name | Description | Goals | Solo/Group | Status | Grade
-| :--- | :---: | ---: |
-| left | center | right |
+| :--- | :---: | ---: | ---: | ---: | ---: |
+| left | center | right | | | |
