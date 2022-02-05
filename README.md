@@ -11,6 +11,7 @@
 1337 is the first to provide IT training in Morocco, completely free of charge, open and accessible to anyone between the ages of 18 and 30. No need for an IT degree, or of having undergone extensive IT training. The only criteria for admission in Treize, Trente-Sept is CREATIVITY.
 
 The Treize, Trente-Sept educational approach is based on peer-learning. A participatory operating style allowing students to unleash their creativity through project-based learning. To train the future coders of tomorrow, we had to rethink learning. We had to make IT something fun, exciting and at odds with the restrictive vision that the general public may have about it.
+For more info please visit the official school website: https://1337.ma/
 
 <br clear="left"/>
 
