@@ -46,5 +46,5 @@ Make sure you include the libft library in your main.c file `#include "libft.h"`
 ###### Example of using libft (using ft_strlen to count how many letters is in a string as you can see in the screenshot above :point_up:)
 https://user-images.githubusercontent.com/61026156/151669673-3af8158e-9aaa-400d-b056-5cc04b02bf71.mp4
 
-## Status: :white_check_mark:
+## Grade: :white_check_mark:
 ![Screen Shot 2022-01-29 at 17 58 46](https://user-images.githubusercontent.com/61026156/151669903-837e86dd-6223-48be-b71a-f23511456bc4.png)
