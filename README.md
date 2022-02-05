@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/61026156/151665395-7e672034-b473-4f70-
 
 >The Holy Graph is a map which represents the projects students will go through once they get accepted. as a student, you will start from the inner circle and work your way out to the others unlocking many other projects.
 
-## :dart: Projects
+## :computer: Projects
 | Project name | Description    | Goals    |    Solo/Group       |    Status    | Grade |
 | :---:        |    :---:       |   :---:  |       :---:         |    :---:     | :---: |
 | [LIBFT](https://github.com/callmesword/1337-Projects/tree/main/LIBFT) | Recode a number of standard C library functions | Basics of C, static libraries | Solo | :white_check_mark: | 100 |
